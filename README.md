@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ma9net
-- 👀 I’m interested in CODE every code, It's delicious
-- 🌱 I’m currently learning deeplearning
+- 👀 I’m interested in CODE, It's delicious
+- 🌱 I’m currently learning web as deep it is.
 - 💞️ I’m looking to collaborate on website developing
 
 <!---
